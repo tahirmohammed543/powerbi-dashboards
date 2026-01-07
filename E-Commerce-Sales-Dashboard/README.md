@@ -34,7 +34,7 @@ These KPIs are designed to answer *what is driving revenue*, *where profit is be
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Overview Page
 ![Dashboard Preview 1](E-Commerce-Sales-Dashboard-Preview-1.png)
