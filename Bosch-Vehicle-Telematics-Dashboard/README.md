@@ -1,11 +1,11 @@
 # Bosch Vehicle Telematics Performance Dashboard (Power BI)
 
-## 1. Executive Summary
+## Executive Summary
 This Power BI dashboard analyses vehicle telematics data to monitor driving behaviour, fuel efficiency, vehicle health, and maintenance patterns. It enables operations and fleet managers to make data-driven decisions that optimise fleet performance, reduce operating costs, and proactively manage vehicle risks.
 
 ---
 
-## 2. Business Objectives
+## Business Objectives
 - Monitor overall fleet utilisation and driving performance across time.
 - Identify vehicles with abnormal engine behaviour or frequent maintenance alerts.
 - Track fuel efficiency trends to control fuel consumption and costs.
@@ -14,7 +14,7 @@ This Power BI dashboard analyses vehicle telematics data to monitor driving beha
 
 ---
 
-## 3. Key KPIs & Metrics
+## Key KPIs & Metrics
 - **Average Speed (kmph)** – Overall fleet driving behaviour indicator.
 - **Total Trips** – Vehicle utilisation and operational load.
 - **Average Driver Score** – Composite indicator of driving quality and safety.
@@ -25,7 +25,7 @@ This Power BI dashboard analyses vehicle telematics data to monitor driving beha
 
 ---
 
-## 4. Dashboard Features & Insights
+## Dashboard Features & Insights
 ### Core Visuals
 - **Trend Analysis**:  
   - Average Fuel Efficiency by Month and Year highlights seasonal and yearly variations.
@@ -45,7 +45,14 @@ This Power BI dashboard analyses vehicle telematics data to monitor driving beha
 
 ---
 
-## 5. Data Model & Technical Approach
+## Dashboard Preview
+
+### Overview Page
+![Dashboard Preview](Bosch-Telematics-Preview.png)
+
+---
+
+## Data Model & Technical Approach
 - **Data Model Structure**
   - Central fact table capturing trip-level telematics data.
   - Dimensions for Date (Year, Month, Quarter) and Vehicle.
@@ -61,7 +68,7 @@ This Power BI dashboard analyses vehicle telematics data to monitor driving beha
 
 ---
 
-## 6. Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 - Power BI Desktop
 - DAX (aggregations, averages, time-based calculations)
 - Data Modelling & Relationships
@@ -71,7 +78,7 @@ This Power BI dashboard analyses vehicle telematics data to monitor driving beha
 
 ---
 
-## 7. Real-World Use Case / Business Impact
+## Real-World Use Case / Business Impact
 In a real fleet or automotive operations environment, this dashboard can:
 - Reduce fuel costs by identifying efficiency drops early.
 - Improve vehicle uptime through proactive maintenance.
@@ -80,7 +87,7 @@ In a real fleet or automotive operations environment, this dashboard can:
 
 ---
 
-## 8. How to Use the Dashboard
+## How to Use the Dashboard
 1. Use **Quarter slicer** to focus on specific operational periods.
 2. Analyse KPI cards for quick fleet health assessment.
 3. Drill into vehicle-level visuals to identify outliers.
@@ -89,7 +96,7 @@ In a real fleet or automotive operations environment, this dashboard can:
 
 ---
 
-## 9. Portfolio Value (Why This Project Stands Out)
+## Portfolio Value (Why This Project Stands Out)
 - Demonstrates end-to-end analytical thinking, not just visualisation.
 - Strong alignment between KPIs and real operational decisions.
 - Shows ability to translate raw telematics data into actionable insights.
@@ -97,8 +104,5 @@ In a real fleet or automotive operations environment, this dashboard can:
 
 ---
 
-## 10. Author
+## Author
 **Mohammed Tahir**  
-Aspiring Data Analyst | Power BI & Business Intelligence  
-LinkedIn & GitHub-ready portfolio project
-
