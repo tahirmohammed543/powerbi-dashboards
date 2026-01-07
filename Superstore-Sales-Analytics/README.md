@@ -45,8 +45,11 @@ This Power BI solution provides a consolidated view of Superstore sales performa
 ---
 
 ## Dashboard Preview
+
+### Sales Dashboard
 ![Superstore Sales Dashboard](Superstore-Sales-Preview.png)
 
+### Forecasting Dashboard
 ![Superstore Sales Forecasting Dashboard](Superstore-Forecast-Preview.png)
 
 ---
